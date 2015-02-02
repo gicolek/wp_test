@@ -2,6 +2,13 @@
 
 The files which are part of the repo have been slightly modified https://wordpress.org/themes/twentyfifteen theme files.
 
+## Purpose of the test ##
+
+The test aims in evaluating your basic .git skills as well as intermediate WordPress knowledge. Familarity with WordPress actions
+and filters is highly anticipated. Moreover we value knowledge of fast debugging and catchy-eye which can easily identif common spelling problems.
+Needles to say with a properly configured debugger and IDE this test should be failry simple, hence there are no tips whatsover. We praise
+individuals who can solve common problems given a fair description.
+
 ## Test Requirments ##
 
 Your job as a submitee is to do the following:
