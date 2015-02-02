@@ -17,5 +17,5 @@ Your job as a submitee is to do the following:
 * The bugs have only been added to the following files: functions.php, header.php, footer.php. You can complete the job by loading the default theme page only
 * Custom actions and filters should be placed within functions.php file below the /* Code Shakers Entry Test Code */ text
 * Overwriting these files with original TwentyFifteen theme files will not make the job complete. The requirements herein modify theme's base structure
-* There are certain comments hidden here and there: /*CodeShakers*/, absence of these will result in immediate failure
+* There are certain comments hidden here and there: /* CodeShakers */, absence of these will result in immediate failure
 * Once completed push the new branch to the repository

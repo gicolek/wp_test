@@ -28,7 +28,9 @@
 
 </div><!-- .site -->
 
-<?php wp_foot(); ?>
+<?php 
+/* CodeShakers */
+wp_foot(); ?>
 
 </body>
 </html>

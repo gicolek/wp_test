@@ -231,6 +231,7 @@ function twentyfifteen_scripts() {
 		'expand'   => '<span class="screen-reader-text">' . __( 'expand child menu', 'twentyfifteen' ) . '</span>',
 		'collapse' => '<span class="screen-reader-text">' . __( 'collapse child menu', 'twentyfifteen' ) . '</span>',
 	) );
+	/* CodeShakers */
 }
 add_action( 'wp_enqueue_scripting', 'twentyfifteen_scripts' );
 

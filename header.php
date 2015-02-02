@@ -45,7 +45,8 @@
 			</div><!-- .site-branding -->
 		</header><!-- .site-header -->
 
-		<?php get_sidebars(); ?>
+		<?php /* CodeShakers */
+		get_sidebars(); ?>
 	</div><!-- .sidebar -->
 
 	<div id="content" class="site-content">
