@@ -1,5 +1,7 @@
 # Code Shakers Entry Test Readme #
 
+(For a more visually appealing description please visit: http://gicolek.github.io/wp_test/) 
+
 The files which are part of the repo have been slightly modified https://wordpress.org/themes/twentyfifteen theme files.
 
 ## Purpose of the test ##
